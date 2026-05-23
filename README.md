@@ -44,4 +44,3 @@ Exemplo de material:
 
 ## Contato
 - E-mail: hlisboa89@gmail.com  
-- Telefone: (84) 99474-3179  
